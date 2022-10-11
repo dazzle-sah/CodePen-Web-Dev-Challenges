@@ -1,4 +1,6 @@
 img{
-    padding-top: 10%;
-    padding-left: 25%;
+    margin-top: 5%;
+    margin-left: 35%;
+    border: 9px double #000000;
+    border-radius: 40px;
 }
