@@ -1,3 +1,9 @@
+body{
+    background: #000000;
+    background: linear-gradient(135deg, #000000 0%, #2A2F84 25%, #191F47 31%, #2A2F84 95%,#000000 100%);
+
+}
+
 img{
     margin-top: 5%;
     margin-left: 37%;
@@ -11,7 +17,7 @@ h1{
 font-size: 30px;
 letter-spacing: 0px;
 word-spacing: 3px;
-color: #04042f;
+color: #ebebf1;
 font-weight: 900;
 text-decoration: none;
 }
@@ -22,13 +28,15 @@ font-family: serif;
 font-size: 20px;
 letter-spacing: 0px;
 word-spacing: 3px;
-color: #04042f;
+color: #f0f0f6;
 font-weight: 900;
 text-decoration: none;
 }
 p{
     padding: 5%;
+    color: rgb(246, 237, 237);
 }
 address{
     padding: 5%;
+    color: rgb(230, 214, 214);
 }
