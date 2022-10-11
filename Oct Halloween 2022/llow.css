@@ -1,0 +1,10 @@
+@counter-style vampire-list {
+    system: cyclic;
+      symbols: "🦇" "🩸" "🧛🏻‍♂️";
+      suffix: "  ";
+  }
+  
+  ul {
+    list-style-type: vampire-list;
+    font-size: 1.25rem;
+  }
