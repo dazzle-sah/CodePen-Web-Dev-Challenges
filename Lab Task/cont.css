@@ -7,6 +7,18 @@ button{
     height: 50px;
     width: 120px;
     margin-left: 1%;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+font-size: 20px;
+letter-spacing: -0.4px;
+word-spacing: 0.8px;
+color: #000000;
+font-weight: 700;
+text-decoration: underline solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+margin-bottom: 20px;
+margin-top: 10px;
 }
 
 h1{
@@ -25,7 +37,7 @@ margin-left: 3%;
 
 h2{
     font-family: "Trebuchet MS", Helvetica, sans-serif;
-font-size: 30px;
+font-size: 80px;
 letter-spacing: -0.4px;
 word-spacing: 0.8px;
 color: #000000;
@@ -34,4 +46,5 @@ text-decoration: underline solid rgb(68, 68, 68);
 font-style: normal;
 font-variant: normal;
 text-transform: uppercase;
+margin-left: 100px;
 }
